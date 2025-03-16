@@ -1,1 +1,2 @@
 20240711	20:30:13	8535b854-b260-422b-9c7c-7290f2c11745	[ERROR] - undefined: undefined	undefined	undefined
+[ERROR]	[23-08-2024 - 09:14:15] 	 undefined: ETIMEOUT	querySrv	_mongodb._tcp.cluster0.fd8kk.mongodb.net
